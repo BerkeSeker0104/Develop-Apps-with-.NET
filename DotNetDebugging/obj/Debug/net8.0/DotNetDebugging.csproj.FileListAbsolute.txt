@@ -1,0 +1,15 @@
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.sourcelink.json
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/berkeseker/Documents/Develop-Apps-with-.NET/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
